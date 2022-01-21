@@ -10,9 +10,7 @@
 # Source: https://github.com/johnjare
 # Created by Jared Johnson
 #
-# Creates a binary alignment file of accessory genes from a
-# gene presence/absence matrix. The resulting alignment file
-# can be used to generate a phylogenetic tree.
+# Reformats a gene presence/absence matrix generated from Panaroo or Roary into a FASTA-like format. The output can be used to generate a phylogenetic tree.
 # ---------------------------------------------------------
 # Example:
 # 
